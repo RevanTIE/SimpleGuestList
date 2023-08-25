@@ -11,6 +11,12 @@ public class Main {
         entradas.add(3);
         entradas.add(4);
 
+        guests[0] = "Jacob";
+        guests[1] = "Edward";
+        guests[2] = "Rose";
+        guests[3] = "Molly";
+        guests[4] = "Christopher";
+
         do{
 
             System.out.println("1 - Display All Guests");
